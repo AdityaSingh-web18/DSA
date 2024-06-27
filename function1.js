@@ -3,11 +3,13 @@ function add(a, b) {
   return a + b;
 }
 let aman = add(5, 1);
+
 function square(x) {
   return x ** 2;
 }
 let naman = square(aman);
+
 function divide(y) {
   return y / 10;
 }
-console.log(divide(naman));
+console.log("output is", divide(naman));
