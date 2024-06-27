@@ -17,6 +17,7 @@ function check(a, b) {
 }
 check(str, rev);
 
+
 //write a function to multiply elements of two arrays and store the product in new array
 function multiply(a, b) {
   let output = [];
