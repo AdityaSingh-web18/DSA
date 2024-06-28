@@ -18,7 +18,6 @@ for (let i = 0; i < input.length; i++) {
   console.log(bag);
 }
 
-
 //For input- [              get output-
 //    [1,2,31],                  1 6 28
 //    [6,11,51],                 2 11 81
